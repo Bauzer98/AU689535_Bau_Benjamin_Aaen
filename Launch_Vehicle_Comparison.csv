@@ -1,0 +1,11 @@
+Launch_Vehicle_Name,Operator,Launch_Cost_Dollar_Million,Cargo_LEO_KG,Dollars_Per_KG
+Antares,Orbital_ATK,80,6200,12903
+Atlas_V_small,ULA,137,8123,16866
+Atlas_V_large,ULA,179,18814,9514
+Delta_IV_Medium,ULA,164,9420,17410
+Delta_IV_Heavy,ULA,400,28790,13894
+SLS,NASA,2000,95000,21053
+Minotaur-C,Orbital_ATK,40,1278,31299
+Pegasus_XL,Orbital_ATK,40,450,88889
+Falcon_9,SpaceX,61.2,22800,2684
+Falcon_Heavy,SpaceX,90,63800,1411
